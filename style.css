@@ -17,10 +17,11 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 450px;
+    flex-wrap: wrap;
+    width: 420px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 10vh;
+    margin-top: 5vh;
     color: rgb(253, 102, 0);
     border: 5px solid rgb(253, 102, 0);
 }
@@ -29,7 +30,7 @@ body {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    width: 425px;
+    width: 400px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
