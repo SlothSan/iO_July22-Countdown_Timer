@@ -1,2 +1,2 @@
-# iO_July22-Countdown_Timer
-Countdown Timer for the Class of 22. 
+# iO_July22_Countdown_Timer
+Countdown Timer for the iO's Class of 22. 
