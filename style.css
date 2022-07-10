@@ -20,7 +20,7 @@ body {
     width: 450px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 20vh;
+    margin-top: 10vh;
     color: rgb(253, 102, 0);
     border: 5px solid rgb(253, 102, 0);
 }
@@ -122,3 +122,13 @@ body {
       opacity: 0;
     }
   }
+
+  .footer-link, .footer-text {
+    font-size: 2rem;
+    color: rgb(253, 102, 0);
+    text-decoration: none;
+  }
+
+  .fa-spin-hover:hover {
+    animation: fa-spin 0.7s ease-in-out;
+}
