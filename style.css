@@ -31,8 +31,8 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     width: 400px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .title {
@@ -50,7 +50,7 @@ body {
     position: relative;
     width: 80px;
     height: 80px;
-    margin: 50px 0px 50px 0px;
+    margin: 10px 0px 10px 0px;
   }
   .lds-spinner div {
     transform-origin: 40px 40px;
